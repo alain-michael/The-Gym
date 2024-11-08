@@ -30,3 +30,8 @@
 .book > * {
     height: 50px;
 }
+
+.appartment-list:hover button {
+    opacity: 1;
+    transition: all .2s ease;
+}
