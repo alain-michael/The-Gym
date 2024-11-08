@@ -23,6 +23,8 @@
     Roboto, "Helvetica Neue", Arial, sans-serif;
   font-synthesis: none;
   font-size: smaller;
+  padding: 0;
+  margin: 0;
 }
 
 .book > * {
