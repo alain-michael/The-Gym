@@ -4,6 +4,13 @@
     url("centra-font/CentraNo1-Medium-BF646c2690710d9.otf") format("truetype");
 }
 
+@font-face {
+    font-family: "Centra No2";
+    src: url("centra-font/CentraNo2-Book-BF646c2690591ba.ttf") format("opentype"),
+      url("centra-font/CentraNo2-Book-BF646c26909250a.otf") format("truetype");
+      font-weight: lighter;
+  }
+
 :root {
   font-family: "Centra No2", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif;
